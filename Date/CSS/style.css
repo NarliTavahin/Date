@@ -1,0 +1,61 @@
+
+@import url(https://fonts.googleapis.com/css?family=Robot);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(221, 160, 221, 0.541);
+    font-family: 'Roboto';
+}
+
+.container{
+    width: 590px;
+    height: 335px;
+    background-color: white;
+    margin: 200px auto;
+    text-align: center;
+    border-radius: 10px;
+    padding: 40px 50px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+
+
+.container-2{
+    width: 510px;
+    height: 100px;
+    background-color: yellow;
+    margin-bottom: 40px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 40px 50px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+
+.container-3{
+    width: 510px;
+    height: 100px;
+    background-color: greenyellow;
+    text-align: center;
+    border-radius: 10px;
+    padding: 40px 50px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+
+
+.pad-top{
+    padding-top: 30px;
+}
+.message{
+    font-size:16px;
+    color: #b3b3b3;
+    margin: 20px;
+}
+
+.message a{
+    text-decoration: none;
+    color:#4CAF50;
+}
